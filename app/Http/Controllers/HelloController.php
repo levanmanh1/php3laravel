@@ -15,7 +15,7 @@ class HelloController extends Controller
     {
         $name = 'Manh';
     	$tuoi = 21;
-    	$diachi = 'Ha Noi';
+    	$diachi = 'Ha Noi1';
     	$lop = ' PT1111';
     	return view('hello',
     	 [
